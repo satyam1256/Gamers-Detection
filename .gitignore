@@ -1,3 +1,4 @@
 dataset
 satyam/**
+logs.log/** 
 .ipynb_checkpoints/** 
